@@ -3,4 +3,10 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
+  }
+
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
