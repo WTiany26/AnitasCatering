@@ -5,8 +5,30 @@
   background-size: cover;
   }
 
-.column {
+.column-md-3 {
     float: left;
     width: 25%;
-    padding: 10px;
+  }
+
+.column-md-6 {
+  float: left;
+  width: 100%;
+}
+
+.fastfoods {
+  border-left: 2px;
+  border-right: 4px;
+  border-top: 6px ;
+  border-bottom: 8px;
+  padding: 60px;
+}
+
+
+
+.drinks {
+  border-left: 2px;
+  border-right: 4px;
+  border-top: 6px ;
+  border-bottom: 8px;
+  padding: 60px;
   }
