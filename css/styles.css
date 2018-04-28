@@ -30,18 +30,24 @@
 }
 
 .fastfoods {
-  border-left: 2px;
+  margin: 60px;
+  /*border-left: 2px;
   border-right: 4px;
   border-top: 6px ;
-  border-bottom: 8px;
-  padding: 150px;
+  border-bottom: 8px;*/
+  width: 700;
+  height: 100px;
+  padding: 100px;
 }
 
 .drinks {
-  border-left: 2px;
+  margin: 60px;
+  width: 700;
+  height: 100px;
+  /*border-left: 2px;
   border-right: 4px;
   border-top: 6px ;
-  border-bottom: 8px;
+  border-bottom: 8px;*/
   padding: 150px;
   }
 
